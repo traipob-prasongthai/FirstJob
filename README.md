@@ -2,3 +2,4 @@
 testing Edit for check the
 
 # สวัสดี ยินดีต้อนรับเข้าสู้ GitHub ของเรา
+บันทึกข้อมูลใหม่
